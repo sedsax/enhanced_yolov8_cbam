@@ -1,1 +1,0 @@
-# Bu dosya models dizinini bir Python paketi olarak tanımlamak için gereklidir
