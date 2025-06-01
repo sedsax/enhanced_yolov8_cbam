@@ -1,0 +1,13 @@
+train: D:/Projects/object_detect_v8/dataset/train/images
+val: D:/Projects/object_detect_v8/dataset/valid/images
+test: D:/Projects/object_detect_v8/dataset/test/images
+
+nc: 1
+names: ['Acne']
+
+roboflow:
+  workspace: osman-kagan-kurnaz
+  project: skin-detection-uvj1f
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/osman-kagan-kurnaz/skin-detection-uvj1f/dataset/8
